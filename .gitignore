@@ -1,0 +1,5 @@
+.env
+healthcare_extract_env/
+__pycache__/
+*.pyc
+data/raw-data.csv
