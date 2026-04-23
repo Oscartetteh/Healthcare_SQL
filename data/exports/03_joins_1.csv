@@ -1,0 +1,101 @@
+patient_id,patient_first_name,patient_last_name,gender,date_of_birth,insurance_type,appointment_id,appointment_date,appointment_time,appointment_status,visit_type,duration_mins,appointment_fee,bill_id,amount_charged,insurance_paid,patient_paid,payment_status,bill_date,payment_method,doctor_id,doctor_first_name,doctor_last_name,specialization,dept_id,dept_name,floor_number,bed_count
+650,Noah,Williams,Non-binary,1997-01-14,Medicare,1,2024-06-08,10:45,Completed,Emergency,30,613.55,,,,,,,,182,Karen,Lopez,Surgery,6,Orthopedics,6,10
+2157,Liam,Johnson,Non-binary,2010-01-14,Medicaid,2,2022-03-15,14:00,No-show,Emergency,15,523.85,19745.0,4848.09,2593.34,2254.75,Pending,2024-05-05,Insurance,29,Jessica,Robinson,Surgery,6,Orthopedics,6,10
+2157,Liam,Johnson,Non-binary,2010-01-14,Medicaid,2,2022-03-15,14:00,No-show,Emergency,15,523.85,8405.0,1423.19,346.41,1076.78,Pending,2023-09-13,Credit Card,29,Jessica,Robinson,Surgery,6,Orthopedics,6,10
+2157,Liam,Johnson,Non-binary,2010-01-14,Medicaid,2,2022-03-15,14:00,No-show,Emergency,15,523.85,8269.0,3527.25,2715.4,811.85,Paid,2022-11-13,Cash,29,Jessica,Robinson,Surgery,6,Orthopedics,6,10
+1531,Patricia,Robinson,Non-binary,1960-07-28,Uninsured,3,2023-12-14,11:00,Completed,Specialist,30,424.45,942.0,4782.67,3421.34,1361.33,Overdue,2022-12-04,Bank Transfer,82,Robert,Lewis,Emergency Medicine,7,Psychiatry,7,8
+1531,Patricia,Robinson,Non-binary,1960-07-28,Uninsured,3,2023-12-14,11:00,Completed,Specialist,30,424.45,189.0,236.78,95.03,141.75,Partial,2023-06-25,Bank Transfer,82,Robert,Lewis,Emergency Medicine,7,Psychiatry,7,8
+2629,Olivia,Taylor,Female,1993-08-21,Medicare,5,2022-12-29,12:00,No-show,General,90,371.39,,,,,,,,186,Michael,Taylor,Oncology,8,Radiology,8,6
+2602,Richard,Martin,Non-binary,1996-11-26,Medicaid,6,2023-04-17,11:45,Completed,General,15,742.07,23464.0,2999.46,624.29,2375.17,Paid,2023-03-10,Credit Card,197,Patricia,Osei,Surgery,7,Psychiatry,7,8
+610,David,Garcia,Male,1957-11-23,Medicare,7,2022-07-21,12:00,Completed,Routine,90,562.26,,,,,,,,152,Amara,Singh,Radiology,4,Oncology,4,18
+630,Robert,Johnson,Male,1978-02-12,Corporate,9,2023-06-11,17:15,Cancelled,Emergency,30,273.39,,,,,,,,86,Lisa,Thomas,Internal Medicine,1,Emergency,1,20
+361,Thomas,Davis,Female,1953-08-11,Corporate,10,2024-04-09,14:30,Scheduled,Specialist,30,449.41,,,,,,,,39,Fatima,White,Orthopedics,5,Pediatrics,5,25
+4877,Zoe,Smith,Male,1999-07-06,Medicaid,11,2024-06-14,12:00,Completed,General,45,102.55,16583.0,3294.4,,3293.52,Partial,2022-12-05,Credit Card,101,Kwame,Robinson,Pediatrics,7,Psychiatry,7,8
+4633,Patricia,Thomas,Female,1956-10-16,Medicare,12,2022-10-05,15:15,Cancelled,Follow-up,15,601.95,9430.0,3809.47,951.99,2857.48,Partial,2022-04-23,Bank Transfer,164,John,Singh,Oncology,1,Emergency,1,20
+4633,Patricia,Thomas,Female,1956-10-16,Medicare,12,2022-10-05,15:15,Cancelled,Follow-up,15,601.95,7454.0,4639.27,2511.42,2127.85,Partial,2022-11-13,Cash,164,John,Singh,Oncology,1,Emergency,1,20
+3857,Thomas,Mensah,Male,1966-05-21,Private,13,2024-11-24,11:45,No-show,Specialist,90,99.99,,,,,,,,128,Charles,Taylor,Orthopedics,1,Emergency,1,20
+25,David,Wilson,Non-binary,1956-11-28,Medicare,14,2022-10-03,12:00,Scheduled,Emergency,15,586.89,,,,,,,,131,Liam,Harris,Surgery,8,Radiology,8,6
+1565,Patricia,Smith,Male,2009-04-06,Medicare,15,2022-07-18,13:45,Scheduled,General,90,185.22,,,,,,,,191,Linda,Thompson,Oncology,6,Orthopedics,6,10
+3542,Robert,Robinson,Female,1987-05-05,Medicare,16,2022-06-21,14:15,Completed,General,60,669.7,4587.0,1158.69,660.11,498.58,Paid,2023-12-28,Credit Card,99,Liam,Robinson,Neurology,3,Neurology,3,12
+4831,William,Williams,Male,1969-08-26,Uninsured,17,2022-08-28,10:45,No-show,General,90,737.17,,,,,,,,84,Linda,Jackson,Radiology,2,Cardiology,2,15
+4805,Karen,Patel,Male,1963-01-31,Medicaid,18,2022-08-15,09:00,Cancelled,General,30,518.59,2099.0,2955.86,770.77,2185.09,Paid,2023-12-07,Credit Card,109,Susan,Anderson,Cardiology,4,Oncology,4,18
+3912,Robert,Garcia,Female,1955-04-20,Uninsured,19,2024-09-17,11:45,Completed,Routine,60,221.39,,,,,,,,101,Kwame,Robinson,Pediatrics,7,Psychiatry,7,8
+1791,Liam,Chen,Female,1992-10-24,Uninsured,20,2023-12-11,08:45,No-show,Specialist,60,371.16,,,,,,,,150,Emma,Patel,Surgery,3,Neurology,3,12
+2902,Fatima,Anderson,Male,1990-04-21,Uninsured,21,2024-12-13,08:00,Cancelled,General,90,90.0,19531.0,2360.43,,570.07,Pending,2023-06-24,Cash,6,Zoe,Davis,Cardiology,7,Psychiatry,7,8
+353,Lisa,Nakamura,Male,1947-09-12,Medicaid,22,2023-01-18,13:00,Completed,Emergency,45,718.35,,,,,,,,107,Omar,Singh,Cardiology,8,Radiology,8,6
+2553,Olivia,Smith,Male,1974-06-19,Medicare,23,2023-08-13,09:15,Cancelled,Follow-up,60,99.37,4105.0,2736.37,925.08,1811.29,Partial,2023-12-30,Insurance,20,Robert,Martin,Oncology,5,Pediatrics,5,25
+3046,Jessica,Mensah,Male,1993-10-05,Private,24,2023-01-04,17:00,No-show,Specialist,15,485.95,,,,,,,,4,Michael,Anderson,Orthopedics,5,Pediatrics,5,25
+2544,Linda,Lopez,Male,2006-01-29,Medicaid,25,2023-03-08,14:45,Cancelled,Routine,15,227.76,,,,,,,,157,Olivia,Kim,Radiology,3,Neurology,3,12
+3686,Michael,Singh,Female,1981-08-18,Uninsured,26,2023-07-26,17:00,Completed,Specialist,60,379.16,15331.0,87.23,28.53,58.7,Paid,2022-01-28,Cash,114,Michael,Chen,Radiology,2,Cardiology,2,15
+191,William,Singh,Male,1976-03-10,Private,27,2022-03-25,12:15,No-show,Emergency,30,603.36,14292.0,3378.7,418.96,2959.74,Pending,2023-11-07,Credit Card,178,Fatima,Robinson,Cardiology,3,Neurology,3,12
+2724,Lisa,Brown,Female,2001-05-19,Medicaid,28,2023-12-27,10:15,Cancelled,General,90,235.84,,,,,,,,115,David,Singh,Surgery,4,Oncology,4,18
+294,Kwame,Chen,Female,1975-12-09,Private,29,2022-05-01,11:45,No-show,Emergency,90,372.01,19768.0,2295.23,755.77,1539.46,Paid,2024-09-23,Credit Card,51,Karen,Lopez,Internal Medicine,7,Psychiatry,7,8
+294,Kwame,Chen,Female,1975-12-09,Private,29,2022-05-01,11:45,No-show,Emergency,90,372.01,15814.0,4074.0,2079.1,1994.9,Overdue,2024-11-07,Credit Card,51,Karen,Lopez,Internal Medicine,7,Psychiatry,7,8
+3242,Kwame,Lewis,Non-binary,1978-09-17,Uninsured,30,2024-01-23,11:30,Completed,Emergency,30,244.03,21889.0,3180.12,1426.89,1753.23,Overdue,2023-12-09,Bank Transfer,121,Robert,Jones,Pediatrics,6,Orthopedics,6,10
+3242,Kwame,Lewis,Non-binary,1978-09-17,Uninsured,30,2024-01-23,11:30,Completed,Emergency,30,244.03,8521.0,947.28,656.24,291.04,Pending,2023-11-16,Cash,121,Robert,Jones,Pediatrics,6,Orthopedics,6,10
+2331,Susan,Asante,Male,2006-09-21,Medicaid,31,2022-10-07,15:00,Completed,Follow-up,15,393.65,11172.0,1839.8,1015.8,824.0,Paid,2023-12-04,Credit Card,52,Joseph,Kim,Pediatrics,8,Radiology,8,6
+2331,Susan,Asante,Male,2006-09-21,Medicaid,31,2022-10-07,15:00,Completed,Follow-up,15,393.65,7651.0,1612.63,119.82,1492.81,Paid,2024-01-06,Cash,52,Joseph,Kim,Pediatrics,8,Radiology,8,6
+46,Tariq,Thompson,Male,1982-09-14,Uninsured,33,2022-11-08,11:30,Completed,Specialist,15,497.96,,,,,,,,129,James,Williams,Internal Medicine,4,Oncology,4,18
+4726,Emma,Davis,Female,2005-04-26,Corporate,34,2023-12-13,15:30,Completed,Specialist,60,113.28,18000.0,1573.25,826.3,746.95,Partial,2022-06-26,Credit Card,119,Patricia,Davis,Surgery,1,Emergency,1,20
+4086,Thomas,Robinson,Non-binary,2000-06-12,Private,35,2023-06-18,12:30,Completed,Emergency,30,638.06,11567.0,4219.56,1521.18,2698.38,Overdue,2024-09-21,Bank Transfer,102,Linda,Anderson,Surgery,5,Pediatrics,5,25
+4086,Thomas,Robinson,Non-binary,2000-06-12,Private,35,2023-06-18,12:30,Completed,Emergency,30,638.06,6124.0,4819.83,699.77,4120.06,Partial,2023-10-29,Bank Transfer,102,Linda,Anderson,Surgery,5,Pediatrics,5,25
+3266,Kwame,Asante,Female,1998-08-02,Medicare,36,2022-06-03,14:15,Scheduled,Follow-up,60,567.36,13665.0,3034.78,1114.5,1920.28,Overdue,2022-06-03,Bank Transfer,184,Amara,Singh,Psychiatry,5,Pediatrics,5,25
+1084,Emma,Lewis,Male,1959-03-11,Uninsured,37,2022-08-03,08:30,Cancelled,General,30,593.13,,,,,,,,111,Jennifer,Jones,Psychiatry,8,Radiology,8,6
+1476,Olivia,Miller,Male,2004-08-30,Medicaid,38,2023-09-12,14:30,Cancelled,Routine,30,727.13,19162.0,349.33,119.96,229.37,Partial,2023-09-19,Insurance,134,Jennifer,Asante,Oncology,6,Orthopedics,6,10
+1476,Olivia,Miller,Male,2004-08-30,Medicaid,38,2023-09-12,14:30,Cancelled,Routine,30,727.13,10641.0,1516.2,699.39,816.81,Paid,2022-12-25,Cash,134,Jennifer,Asante,Oncology,6,Orthopedics,6,10
+3139,Charles,Osei,Female,1960-11-01,Medicaid,39,2024-11-04,14:30,Scheduled,Follow-up,90,387.34,,,,,,,,139,Thomas,Miller,Neurology,3,Neurology,3,12
+2886,James,Kim,Non-binary,2009-07-20,Uninsured,40,2022-05-10,16:00,Scheduled,Follow-up,90,270.53,,,,,,,,49,David,Osei,Emergency Medicine,2,Cardiology,2,15
+3364,Fatima,Brown,Female,2001-07-18,Private,41,2023-09-15,12:30,Scheduled,Follow-up,60,728.0,9868.0,2325.39,,2236.55,Paid,2022-01-07,Bank Transfer,22,Susan,Brown,Emergency Medicine,7,Psychiatry,7,8
+304,John,Smith,Female,2009-02-28,Uninsured,42,2022-05-07,16:30,No-show,Emergency,30,633.44,14057.0,3620.07,2267.36,1352.71,Overdue,2024-08-03,Cash,159,Amara,Lewis,Radiology,2,Cardiology,2,15
+4939,Tariq,Davis,Female,1966-08-15,Medicare,43,2024-06-25,14:15,Completed,Routine,30,540.44,,,,,,,,79,Noah,Williams,Oncology,5,Pediatrics,5,25
+4690,Noah,Jackson,Male,1956-09-23,Medicaid,44,2022-01-27,10:30,Scheduled,Specialist,90,752.63,9485.0,286.26,69.07,217.19,Pending,2022-06-20,Credit Card,5,Fatima,Osei,Surgery,6,Orthopedics,6,10
+1287,Kwame,White,Non-binary,1957-12-31,Private,45,2023-08-28,14:00,Cancelled,General,30,133.52,,,,,,,,52,Joseph,Kim,Pediatrics,8,Radiology,8,6
+4030,William,Taylor,Non-binary,1988-05-02,Medicare,46,2022-01-10,16:45,Completed,General,15,333.57,11648.0,3451.89,1970.32,1481.57,Paid,2022-06-24,Cash,104,Joseph,Osei,Oncology,5,Pediatrics,5,25
+2600,Susan,Patel,Non-binary,2005-05-02,Medicaid,47,2024-07-01,16:15,Cancelled,Follow-up,45,685.65,21434.0,2988.87,629.74,2359.13,Paid,2022-07-09,Bank Transfer,130,Linda,Lewis,Cardiology,1,Emergency,1,20
+4525,Jennifer,Osei,Male,1948-10-30,Medicare,48,2023-03-24,16:30,Cancelled,General,45,591.42,22696.0,939.12,533.64,405.48,Overdue,2022-02-21,Insurance,34,Thomas,Lopez,Emergency Medicine,2,Cardiology,2,15
+146,William,Osei,Non-binary,1947-12-17,Private,49,2023-04-22,17:45,Scheduled,Routine,30,609.88,2329.0,3476.19,1711.21,1764.98,Overdue,2022-10-26,Cash,177,Jennifer,Jones,Surgery,2,Cardiology,2,15
+3196,Sarah,Johnson,Non-binary,2002-11-25,Uninsured,50,2022-02-16,16:00,Cancelled,Emergency,90,448.29,,,,,,,,155,Robert,Davis,Radiology,6,Orthopedics,6,10
+1126,Charles,Osei,Non-binary,1943-03-13,Uninsured,51,2024-04-08,13:15,Scheduled,Routine,30,699.34,876.0,848.38,528.0,320.38,Overdue,2024-06-27,Cash,155,Robert,Davis,Radiology,6,Orthopedics,6,10
+1650,Noah,Thomas,Non-binary,1995-03-28,Private,52,2024-09-08,08:45,Completed,Routine,15,646.95,19677.0,1783.21,615.87,1167.34,Paid,2024-12-06,Bank Transfer,6,Zoe,Davis,Cardiology,7,Psychiatry,7,8
+4231,Amara,Chen,Female,1989-08-13,Uninsured,53,2022-02-16,09:30,Completed,Routine,30,734.02,,,,,,,,109,Susan,Anderson,Cardiology,4,Oncology,4,18
+2271,Linda,Jackson,Female,1958-05-02,Uninsured,54,2022-05-25,10:15,Cancelled,Emergency,45,615.18,16599.0,1868.33,538.28,1330.05,Pending,2024-10-17,Credit Card,82,Robert,Lewis,Emergency Medicine,7,Psychiatry,7,8
+1633,Zoe,Lewis,Female,1991-07-20,Corporate,55,2024-10-13,16:00,Cancelled,Specialist,45,158.53,2298.0,3067.15,2103.5,963.65,Pending,2024-04-24,Cash,200,Kwame,Mensah,Pediatrics,8,Radiology,8,6
+194,Jennifer,Wilson,Non-binary,1982-07-24,Uninsured,56,2023-09-24,11:15,Completed,Follow-up,90,316.66,,,,,,,,118,David,Nakamura,Psychiatry,2,Cardiology,2,15
+455,Karen,Robinson,Male,1960-11-25,Corporate,57,2024-11-07,14:45,No-show,Emergency,45,50.44,23078.0,2139.42,150.23,1989.19,Pending,2022-02-18,Cash,114,Michael,Chen,Radiology,2,Cardiology,2,15
+1558,Mary,Harris,Non-binary,1962-05-04,Private,58,2023-10-15,15:45,Completed,Follow-up,60,693.97,22384.0,2865.33,608.64,2256.69,Pending,2024-01-27,Cash,192,Michael,Jones,Cardiology,7,Psychiatry,7,8
+1780,David,Thompson,Non-binary,1980-12-14,Corporate,59,2022-05-20,12:15,Cancelled,Specialist,45,113.4,18436.0,3648.02,,810.14,Partial,2022-05-01,Credit Card,100,David,Davis,Radiology,5,Pediatrics,5,25
+1780,David,Thompson,Non-binary,1980-12-14,Corporate,59,2022-05-20,12:15,Cancelled,Specialist,45,113.4,19081.0,4421.8,2885.41,1536.39,Partial,2023-08-23,Bank Transfer,100,David,Davis,Radiology,5,Pediatrics,5,25
+1780,David,Thompson,Non-binary,1980-12-14,Corporate,59,2022-05-20,12:15,Cancelled,Specialist,45,113.4,685.0,274.43,87.75,186.68,Overdue,2023-08-21,Credit Card,100,David,Davis,Radiology,5,Pediatrics,5,25
+764,Emma,Mensah,Non-binary,1951-01-16,Medicaid,60,2023-04-04,10:30,No-show,Specialist,15,530.95,2987.0,178.6,54.97,123.63,Partial,2022-01-12,Bank Transfer,112,David,Lopez,Psychiatry,2,Cardiology,2,15
+2167,Tariq,Robinson,Female,1943-05-31,Uninsured,61,2023-05-11,14:30,Cancelled,General,60,445.62,2032.0,1209.29,0.13,1209.16,Paid,2024-12-20,Insurance,168,Jessica,Moore,Pediatrics,8,Radiology,8,6
+2963,Karen,Lopez,Female,1983-11-17,Corporate,62,2024-10-11,15:15,Completed,Specialist,15,245.32,15720.0,1810.15,366.57,1443.58,Paid,2023-06-24,Insurance,191,Linda,Thompson,Oncology,6,Orthopedics,6,10
+242,David,Nakamura,Non-binary,1975-01-29,Corporate,63,2024-10-05,12:00,No-show,Emergency,15,723.62,1925.0,3971.3,783.12,3188.18,Partial,2023-02-09,Bank Transfer,21,Amara,Jackson,Oncology,2,Cardiology,2,15
+1036,Emma,Martin,Non-binary,1992-01-07,Medicare,65,2024-12-01,11:45,No-show,Specialist,60,296.36,,,,,,,,115,David,Singh,Surgery,4,Oncology,4,18
+1099,John,Thomas,Female,2003-05-01,Medicare,66,2023-09-02,15:00,Cancelled,Emergency,15,714.46,12355.0,2435.23,,2041.59,Overdue,2023-10-09,Insurance,58,Noah,Garcia,Emergency Medicine,5,Pediatrics,5,25
+1099,John,Thomas,Female,2003-05-01,Medicare,66,2023-09-02,15:00,Cancelled,Emergency,15,714.46,19012.0,1968.33,687.39,1280.94,Paid,2022-04-29,Cash,58,Noah,Garcia,Emergency Medicine,5,Pediatrics,5,25
+1099,John,Thomas,Female,2003-05-01,Medicare,66,2023-09-02,15:00,Cancelled,Emergency,15,714.46,14214.0,2371.91,1759.6,612.31,Pending,2023-03-03,Cash,58,Noah,Garcia,Emergency Medicine,5,Pediatrics,5,25
+2233,Jessica,Moore,Female,1978-11-15,Medicaid,67,2022-01-14,10:15,No-show,Emergency,60,773.08,10018.0,4629.91,2737.7,1892.21,Partial,2022-08-12,Cash,169,Zoe,Anderson,Surgery,7,Psychiatry,7,8
+4671,Joseph,Robinson,Male,1944-06-22,Medicaid,68,2024-02-10,15:30,No-show,Follow-up,60,327.38,,,,,,,,58,Noah,Garcia,Emergency Medicine,5,Pediatrics,5,25
+2794,Thomas,Mensah,Non-binary,1965-09-25,Corporate,69,2023-06-14,08:15,Cancelled,Routine,90,616.99,,,,,,,,173,Tariq,Thompson,Cardiology,5,Pediatrics,5,25
+1485,James,Mensah,Male,1978-07-13,Medicare,71,2022-04-11,17:30,No-show,General,45,242.78,21447.0,2976.57,1149.14,1827.43,Pending,2024-11-22,Insurance,176,Michael,Miller,Neurology,4,Oncology,4,18
+4055,Zoe,Taylor,Male,2008-02-11,Corporate,72,2024-01-04,16:15,Completed,General,90,596.42,13663.0,4521.44,3521.11,1000.33,Paid,2024-11-18,Insurance,102,Linda,Anderson,Surgery,5,Pediatrics,5,25
+4256,Linda,Robinson,Female,1985-01-12,Corporate,74,2022-05-09,13:15,Cancelled,Emergency,30,68.49,7045.0,561.56,320.39,241.17,Paid,2023-03-25,Credit Card,116,David,Singh,Surgery,1,Emergency,1,20
+1967,Karen,Nakamura,Male,1953-03-24,Private,75,2023-10-14,12:30,Scheduled,Emergency,15,166.88,11499.0,4526.91,2234.6,2292.31,Partial,2023-09-08,Cash,141,Charles,Singh,Pediatrics,1,Emergency,1,20
+1967,Karen,Nakamura,Male,1953-03-24,Private,75,2023-10-14,12:30,Scheduled,Emergency,15,166.88,4765.0,1485.61,1056.17,429.44,Pending,2022-05-03,Bank Transfer,141,Charles,Singh,Pediatrics,1,Emergency,1,20
+1967,Karen,Nakamura,Male,1953-03-24,Private,75,2023-10-14,12:30,Scheduled,Emergency,15,166.88,1860.0,55.53,9.71,45.82,Overdue,2023-12-24,Bank Transfer,141,Charles,Singh,Pediatrics,1,Emergency,1,20
+4388,Emma,Moore,Male,1943-05-10,Corporate,76,2022-01-16,12:45,No-show,Routine,90,527.2,19510.0,1058.07,685.22,372.85,Paid,2023-04-25,Insurance,196,Linda,Moore,Emergency Medicine,8,Radiology,8,6
+4388,Emma,Moore,Male,1943-05-10,Corporate,76,2022-01-16,12:45,No-show,Routine,90,527.2,11758.0,627.93,191.22,436.71,Overdue,2022-08-13,Bank Transfer,196,Linda,Moore,Emergency Medicine,8,Radiology,8,6
+3813,Olivia,Robinson,Female,1976-08-21,Medicare,78,2022-08-17,13:45,No-show,Follow-up,60,636.54,,,,,,,,27,John,Johnson,Surgery,8,Radiology,8,6
+2797,Robert,Moore,Female,1993-07-16,Uninsured,79,2022-09-09,14:15,Completed,Specialist,30,333.56,,,,,,,,105,Susan,Johnson,Pediatrics,8,Radiology,8,6
+703,Joseph,Jackson,Non-binary,1978-03-11,Medicaid,80,2024-12-16,15:15,Completed,Emergency,15,574.02,,,,,,,,61,Linda,Miller,Radiology,5,Pediatrics,5,25
+618,Susan,Mensah,Male,1962-01-07,Uninsured,81,2022-08-29,14:45,No-show,General,60,177.21,21066.0,4091.11,,2172.84,Partial,2022-12-24,Insurance,146,Omar,Williams,Surgery,3,Neurology,3,12
+4470,David,Asante,Non-binary,1948-04-13,Corporate,82,2024-06-02,15:45,Scheduled,General,90,153.96,,,,,,,,134,Jennifer,Asante,Oncology,6,Orthopedics,6,10
+3805,Patricia,Johnson,Non-binary,1996-04-08,Private,83,2023-01-07,10:30,No-show,Specialist,90,367.71,6617.0,3105.81,,1396.3,Overdue,2024-09-08,Credit Card,146,Omar,Williams,Surgery,3,Neurology,3,12
+3805,Patricia,Johnson,Non-binary,1996-04-08,Private,83,2023-01-07,10:30,No-show,Specialist,90,367.71,11290.0,1278.46,165.86,1112.6,Partial,2024-03-22,Insurance,146,Omar,Williams,Surgery,3,Neurology,3,12
+3735,Omar,Robinson,Male,2007-07-24,Medicare,84,2024-03-14,15:00,Cancelled,Routine,90,319.48,,,,,,,,27,John,Johnson,Surgery,8,Radiology,8,6
+2736,Zoe,Davis,Female,1948-06-30,Medicaid,85,2024-01-29,10:15,Cancelled,Follow-up,90,427.07,,,,,,,,117,Zoe,Smith,Neurology,1,Emergency,1,20
+1550,Patricia,Patel,Male,1946-11-15,Uninsured,86,2022-05-24,11:45,Scheduled,Emergency,45,252.04,,,,,,,,75,Tariq,Harris,Cardiology,1,Emergency,1,20
+3919,Thomas,Johnson,Female,1985-11-08,Medicaid,87,2022-07-16,09:30,Cancelled,Routine,30,693.12,,,,,,,,194,Patricia,Jones,Orthopedics,6,Orthopedics,6,10
+4566,Kwame,Chen,Female,1942-07-15,Uninsured,88,2023-11-14,09:45,Completed,Routine,15,388.21,,,,,,,,29,Jessica,Robinson,Surgery,6,Orthopedics,6,10
+3562,John,Jones,Male,1964-05-07,Medicaid,89,2024-08-24,14:15,Completed,Follow-up,15,645.01,24792.0,554.12,39.06,515.06,Overdue,2023-10-09,Cash,117,Zoe,Smith,Neurology,1,Emergency,1,20
+3562,John,Jones,Male,1964-05-07,Medicaid,89,2024-08-24,14:15,Completed,Follow-up,15,645.01,24787.0,2184.49,1029.06,1155.43,Paid,2022-04-28,Cash,117,Zoe,Smith,Neurology,1,Emergency,1,20

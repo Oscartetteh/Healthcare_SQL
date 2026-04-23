@@ -1,0 +1,11 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,visit_type,duration_mins,fee,notes
+1,650,182,2024-06-08,10:45,Completed,Emergency,30,613.55,Follow-up required
+2,2157,29,2022-03-15,14:00,No-show,Emergency,15,523.85,
+3,1531,82,2023-12-14,11:00,Completed,Specialist,30,424.45,Routine visit
+5,2629,186,2022-12-29,12:00,No-show,General,90,371.39,Follow-up required
+6,2602,197,2023-04-17,11:45,Completed,General,15,742.07,Follow-up required
+7,610,152,2022-07-21,12:00,Completed,Routine,90,562.26,Routine visit
+9,630,86,2023-06-11,17:15,Cancelled,Emergency,30,273.39,Lab tests ordered
+10,361,39,2024-04-09,14:30,Scheduled,Specialist,30,449.41,
+11,4877,101,2024-06-14,12:00,Completed,General,45,102.55,Follow-up required
+12,4633,164,2022-10-05,15:15,Cancelled,Follow-up,15,601.95,

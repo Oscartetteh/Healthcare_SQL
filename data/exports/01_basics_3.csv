@@ -1,0 +1,11 @@
+bill_id,patient_id,appointment_id,amount_charged,insurance_paid,patient_paid,payment_status,bill_date,payment_method
+2,3964,3120,3526.55,1044.13,2482.42,Paid,2022-01-16,Bank Transfer
+3,4726,10501,2861.71,334.09,2527.62,Partial,2024-08-22,Credit Card
+4,4586,12443,448.44,247.05,201.39,Partial,2024-01-10,Credit Card
+5,2126,5118,4562.64,2935.41,1627.23,Partial,2023-09-27,Credit Card
+7,155,26461,1720.24,890.82,829.42,Pending,2024-09-04,Bank Transfer
+8,2416,13406,3620.74,589.67,3031.07,Overdue,2022-10-18,Bank Transfer
+9,3664,8458,2709.22,1637.6,1071.62,Paid,2023-02-17,Cash
+10,1710,11777,3152.36,1666.76,1485.6,Paid,2023-02-04,Credit Card
+11,880,6560,1993.36,526.61,1466.75,Paid,2022-04-21,Bank Transfer
+13,2128,4311,3349.17,1816.29,1532.88,Paid,2024-07-21,Credit Card

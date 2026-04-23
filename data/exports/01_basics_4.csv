@@ -1,0 +1,11 @@
+doctor_id,first_name,last_name,specialization,dept_id,years_exp,salary,email,phone,hire_date,is_active
+1,Susan,Brown,Emergency Medicine,5,8,171338.47,susan.brown95@hospital.org,+1-304-792-9935,2011-12-14,True
+2,John,Smith,Cardiology,4,8,236231.72,john.smith4@hospital.org,+1-774-303-9928,2019-05-30,True
+3,Linda,Wilson,Emergency Medicine,3,23,217201.31,linda.wilson36@hospital.org,+1-359-320-6514,2012-04-17,True
+4,Michael,Anderson,Orthopedics,5,26,129993.6,michael.anderson59@hospital.org,+1-749-227-7201,2011-10-08,True
+5,Fatima,Osei,Surgery,6,19,164226.38,fatima.osei9@hospital.org,+1-246-777-4733,2016-06-28,True
+6,Zoe,Davis,Cardiology,7,9,224284.37,zoe.davis47@hospital.org,+1-366-479-6820,2014-09-13,True
+7,Sarah,Mensah,Cardiology,3,18,287699.16,sarah.mensah21@hospital.org,+1-673-488-5422,2022-06-29,True
+8,Omar,Kim,Emergency Medicine,4,27,127383.06,omar.kim41@hospital.org,+1-610-374-2084,2014-09-25,True
+9,Linda,Lopez,Orthopedics,4,21,234823.19,linda.lopez83@hospital.org,+1-669-246-5339,2013-02-17,True
+10,Jennifer,Thompson,Pediatrics,7,29,254212.57,jennifer.thompson47@hospital.org,+1-424-241-9348,2021-01-25,True

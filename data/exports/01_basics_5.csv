@@ -1,0 +1,9 @@
+dept_id,dept_name,floor_number,head_doctor,bed_count
+1,Emergency,1,Dr. Sarah Johnson,20
+2,Cardiology,2,Dr. Michael Chen,15
+3,Neurology,3,Dr. Amara Osei,12
+4,Oncology,4,Dr. Lisa Rodriguez,18
+5,Pediatrics,5,Dr. James Wilson,25
+6,Orthopedics,6,Dr. Fatima Hassan,10
+7,Psychiatry,7,Dr. David Kim,8
+8,Radiology,8,Dr. Emma Thompson,6
