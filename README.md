@@ -1,6 +1,4 @@
- P01 ⭐ — Healthcare SQL
-## The Darko Method 2026 | Student Project
-
+Healthcare SQL
 ---
 
 ## Your Brief
